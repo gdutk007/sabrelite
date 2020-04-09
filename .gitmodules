@@ -1,0 +1,3 @@
+[submodule "linux/armv7-multiplatform"]
+	path = linux/armv7-multiplatform
+	url = git@github.com:gdutk007/sabrelite.git
